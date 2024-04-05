@@ -17,11 +17,11 @@ Installation:
 Ensure you have Python 3.x installed on your system.
 Install the required libraries using pip.
 
-pip install opencv-python--
+pip install opencv-python
 
 Clone this repository to your local machine.
 
-git clone <repository_url>
+git clone <https://github.com/dokienlam/Face_recognition.git>
 
 Navigate to the project directory.
 
